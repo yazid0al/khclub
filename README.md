@@ -37,3 +37,6 @@ khclub/
 ├── media/                  # User-uploaded files and club images
 ├── manage.py               # Django project management script
 └── db.sqlite3              # Local development database
+```
+---
+*The First Built by Yazid Alsaidi.*
