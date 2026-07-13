@@ -1,6 +1,6 @@
 # Khulais High School Science Club (KH Club)
 
-> **Welcome to the official web portal for The Science Club at Khulais High School.** 
+> **Welcome to the official web portal for the Science Club at Khulais High School.** 
 > This platform is designed to keep students engaged with the latest scientific news, organized educational resources, and interactive club competitions.
 
 ---
@@ -11,9 +11,9 @@ The **KH Club** website is a modern web application built to serve as the digita
 
 ## ✨ Core Features
 
-*   **📰 News & Announcements :** A dynamic feed displaying the latest club activities, meeting schedules, and general science news.
-*   **📂 Scientific Categories :** An organized library of data categories, allowing students to browse resources across different scientific fields (e.g., Physics, Chemistry, Biology).
-*   **🏆 Competitions & Quizzes :** An interactive section dedicated to hosting science quizzes, academic challenges, and tracking club competitions.
+*   **📰 News & Announcements:** A dynamic feed displaying the latest club activities, meeting schedules, and general science news.
+*   **📂 Scientific Categories:** An organized library of data categories, allowing students to browse resources across different scientific fields (e.g., Physics, Chemistry, Biology).
+*   **🏆 Competitions & Quizzes:** An interactive section dedicated to hosting science quizzes, academic challenges, and tracking club competitions.
 
 ---
 
